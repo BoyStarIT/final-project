@@ -1808,19 +1808,11 @@ footer .copy-right:before {
   border: 1px solid #2e2e2e;
 }
 
-.new-letter .form-letter input::-webkit-input-placeholder {
-  color: #9f9f9f;
-}
-
 .new-letter .form-letter input::-moz-placeholder {
   color: #9f9f9f;
 }
 
 .new-letter .form-letter input:-ms-input-placeholder {
-  color: #9f9f9f;
-}
-
-.new-letter .form-letter input::-ms-input-placeholder {
   color: #9f9f9f;
 }
 
@@ -3331,19 +3323,11 @@ footer .copy-right:before {
   border-radius: 4px;
 }
 
-.popup-login .tabs-login .tab-content .tab-pane .fr-login .form-control::-webkit-input-placeholder {
-  color: #777777;
-}
-
 .popup-login .tabs-login .tab-content .tab-pane .fr-login .form-control::-moz-placeholder {
   color: #777777;
 }
 
 .popup-login .tabs-login .tab-content .tab-pane .fr-login .form-control:-ms-input-placeholder {
-  color: #777777;
-}
-
-.popup-login .tabs-login .tab-content .tab-pane .fr-login .form-control::-ms-input-placeholder {
   color: #777777;
 }
 
@@ -4179,19 +4163,11 @@ footer .copy-right:before {
   background-color: #f7f7f7;
 }
 
-.form-account .form-group .form-control::-webkit-input-placeholder {
-  color: #9f9f9f;
-}
-
 .form-account .form-group .form-control::-moz-placeholder {
   color: #9f9f9f;
 }
 
 .form-account .form-group .form-control:-ms-input-placeholder {
-  color: #9f9f9f;
-}
-
-.form-account .form-group .form-control::-ms-input-placeholder {
   color: #9f9f9f;
 }
 
@@ -4814,19 +4790,11 @@ footer .copy-right:before {
   padding-bottom: 10px;
 }
 
-.form-contact .form-group .form-control::-webkit-input-placeholder {
-  color: #777777;
-}
-
 .form-contact .form-group .form-control::-moz-placeholder {
   color: #777777;
 }
 
 .form-contact .form-group .form-control:-ms-input-placeholder {
-  color: #777777;
-}
-
-.form-contact .form-group .form-control::-ms-input-placeholder {
   color: #777777;
 }
 
