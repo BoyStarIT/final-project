@@ -7,5 +7,5 @@ import file vue_lar07.sql
 <p>npm run watch</p>
 
 ## Chạy Laravel
-
+composer install
 php artisan serve

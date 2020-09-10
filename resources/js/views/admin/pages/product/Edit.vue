@@ -101,9 +101,6 @@
                                     <el-col :span="8">
                                         <el-form-item
                                             label="Hiển thị"
-                                            :label-width="
-                                                display.formLabelWidth
-                                            "
                                         >
                                             <el-switch
                                                 v-model="state.status"
@@ -112,28 +109,22 @@
                                     </el-col>
                                     <el-col :span="8">
                                         <el-form-item
-                                            label="Nổi bật"
-                                            :label-width="
-                                                display.formLabelWidth
-                                            "
+                                            label="Nổi bật"                                            
                                         >
                                             <el-switch
                                                 v-model="state.is_hot"
                                             ></el-switch>
                                         </el-form-item>
                                     </el-col>
-                                    <el-col :span="8">
+                                    <!-- <el-col :span="8">
                                         <el-form-item
-                                            label="Khuyến mãi"
-                                            :label-width="
-                                                display.formLabelWidth
-                                            "
+                                            label="Khuyến mãi"                                            
                                         >
                                             <el-switch
                                                 v-model="state.is_bestseller"
                                             ></el-switch>
                                         </el-form-item>
-                                    </el-col>
+                                    </el-col> -->
                                 </el-row>
                                 <el-form-item
                                     label="Mã sản phẩm"

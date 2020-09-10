@@ -3,12 +3,12 @@
         <div class="v-aside-brand">
             <router-link to="/">
                 <img
-                    width="118"
-                    height="46"
-                    src="https://coreui.io/vue/demo/3.0-beta.1/img/brand/coreui-signet-white.svg"
+                    width="80"
+                    height="61"
+                    src="tomita/images/logo.png"
                     alt
                 />
-                <div class="v-aside-brand__text">CMS Foo.space</div>
+                <div class="v-aside-brand__text">Tomita Market</div>
             </router-link>
         </div>
         <el-menu
