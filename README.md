@@ -1,11 +1,11 @@
 ##
-import file vue_lar07.sql
+    import file vue_lar07.sql
 
 ## Chạy Vue
 
-<p>npm install</p>
-<p>npm run watch</p>
+    npm install
+    npm run watch
 
 ## Chạy Laravel
-composer install
-php artisan serve
+    composer install
+    php artisan serve
